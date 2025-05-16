@@ -12,7 +12,7 @@ This research develops a respiratory rate monitoring system based on electrocard
 - One electrode around the lower left rib area (LL)
 
 ## Aplication Usage 🚀
-1. Open the RespiratoryRateEstimation.mlapp application to run the respiratory rate monitoring program.
+1. Open the **RespiratoryRateEstimation.mlapp** application to run the respiratory rate monitoring program.
 2. Add the ShimmerHandleClass library, which can be downloaded from the following link: https://github.com/ShimmerEngineering/Shimmer-MATLAB-ID/blob/master/ShimmerHandleClass.m
 3. Check the Shimmer serial port (Standard Serial over Bluetooth link) being used, for example: COM5. Adjust this in line 40 of the RespiratoryRateEstimation.mlapp code.
 4. Run the program.
