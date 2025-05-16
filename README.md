@@ -1,7 +1,8 @@
 # RespiratoryRateEstimation-Using-Shimmer3ECG-MATLAB
 Bachelor's thesis
 
-## Deskripsi
+## Description
+This research develops a respiratory rate monitoring system based on electrocardiogram (ECG) signals using the Shimmer ECG device, operated in MATLAB in real time. The system is designed to support yoga training by providing real-time respiratory rate estimation using ECG signals. The estimation is performed using the Pan-Tompkins algorithm to detect QRS complexes, followed by Root Mean Square (RMS) calculation and peak frequency analysis of the power spectrum through Fast Fourier Transform (FFT) to determine the respiratory frequency. The system's results are displayed on a Graphical User Interface (GUI) in the form of ECG signal plots, heart rate, respiratory rate estimation, and classification of respiratory rate levels.
 
 ## Device Preparation
 1. Prepare the Shimmer3 ECG device and ensure the Bluetooth is connected to the laptop.
