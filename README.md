@@ -19,3 +19,4 @@ This research develops a respiratory rate monitoring system based on electrocard
 
 ## License 📜
 Licensed under the Direktor Jenderal Kekayaan Intelektual
+[![img](img.png)](HakKekayaanIntelektual.pdf)
